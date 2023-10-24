@@ -1,2 +1,2 @@
-this is the fetch
+this is the pull and fetch commands i am learning now
 
